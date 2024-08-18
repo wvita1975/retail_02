@@ -1,4 +1,4 @@
-features_dataset
-sales_dataset
-stores_dataset
-sales_stores
+features_dataset.csv
+sales_dataset.csv
+stores_dataset.csv
+sales_stores.csv
